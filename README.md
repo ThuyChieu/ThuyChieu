@@ -1,6 +1,8 @@
 ### Hi there 👋
 🔭 I’m Thuy Chieu
+
 🌱 I'm an automation tester
+
 📫 How to reach me: chieuthuymaijenny@gmail.com
 
 <!--
